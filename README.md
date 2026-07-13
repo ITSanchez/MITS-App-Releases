@@ -1,7 +1,7 @@
 # MITS APP
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ITSanchez/MITS-App-Releases/main/logo.png" width="180" alt="MITS APP">
+  <img src="logo.png" width="180" alt="MITS APP">
 </p>
 
 **MITS APP** is a lightweight desktop application for **macOS** and **Windows** that provides real-time local system monitoring and seamless integration with **Redragon Stream Station (SS-552)**.
